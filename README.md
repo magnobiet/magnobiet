@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Random Unsplash image](https://source.unsplash.com/random/904x452)
+
 <!--
 **magnobiet/magnobiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
