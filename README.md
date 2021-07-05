@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnobiet&show_icons=true&theme=monokai)
+![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnobiet&show_icons=true&theme=monokai&include_all_commits=true&count_private=true)
+
+![Magno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=magnobiet&layout=compact&langs_count=16&theme=monokai)
