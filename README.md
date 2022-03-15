@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There! 👋
 
 <!--
 ![Random Unsplash image](https://source.unsplash.com/random/904x452)
@@ -19,6 +19,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnobiet&show_icons=true&theme=monokai&include_all_commits=true&count_private=true)
+<!-- ![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnobiet&show_icons=true&theme=monokai&include_all_commits=true&count_private=true)
 
-![Magno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=magnobiet&layout=compact&langs_count=16&theme=monokai)
+![Magno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=magnobiet&layout=compact&langs_count=16&theme=monokai) -->
+
+#### My Skils
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jquery,ts,bootstrap,angular,nodejs,md)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,cloudflare,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+
+
