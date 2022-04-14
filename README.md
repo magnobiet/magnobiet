@@ -1,4 +1,5 @@
-### Hi There! 👋
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 
 <!--
 ![Random Unsplash image](https://source.unsplash.com/random/904x452)
