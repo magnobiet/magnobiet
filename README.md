@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![Magno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=magnobiet&layout=compact&langs_count=16&theme=monokai) -->
 
-#### My Skils
+#### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jquery,ts,bootstrap,angular,nodejs,md)](https://skillicons.dev)
 
