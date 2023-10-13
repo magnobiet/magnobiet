@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### My Skills
+## Technologies and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,md,sass,jquery,ts,bootstrap,tailwind,styledcomponents,angular,react,nextjs,jest,nodejs)](https://skillicons.dev)
 
@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 
 ---
 
-![Linkedin](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magnobiet/)
+[![Website](https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logoColor=white&color=202124)](https://magnobiet.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/magnobiet/)
 
