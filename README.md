@@ -6,7 +6,7 @@
 ![Random Unsplash image](https://source.unsplash.com/random/904x452)
 -->
 
-## Technologies and Tools
+## Technologies and tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,md,sass,jquery,ts,bootstrap,tailwind,styledcomponents,angular,react,nextjs,jest,nodejs)](https://skillicons.dev)
 
