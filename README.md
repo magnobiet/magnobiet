@@ -1,12 +1,30 @@
-# Hi, I'm Magno 👋 
+# Hi, I'm Magno 👋
 
 ## Technologies and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,sass,jquery,ts,bootstrap,tailwind,styledcomponents,angular,react,nextjs,jest,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,markdown)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,cloudflare,heroku,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,postman,codepen)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,styledcomponents,materialui)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=jquery,angular,react,nextjs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,pnpm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bitbucket,github,gitlab)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,apple,windows)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,heroku,vercel)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postman,codepen)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ## Get in touch
 
