@@ -8,13 +8,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,styledcomponents,materialui)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=jquery,angular,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,angular,rxjs,react,nextjs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,pnpm)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bitbucket,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,bitbucket,gitlab)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,apple,windows)](https://skillicons.dev)
 
